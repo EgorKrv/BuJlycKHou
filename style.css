@@ -21,6 +21,7 @@ iframe {
 }
 
 header img {
+    height: 400px;
     width: 100%;
 }
 
@@ -40,12 +41,28 @@ body p:hover {
 a {
     background-color: white;
     color: red;
-    border: yellow 1px solid;
+    border: yellow 2px solid;
     padding: 10px;
     border-radius:10px;
     text-decoration:none;
 }
 .e {
-    text-align: center;
+    text-align: right;
     font-size: 20px;
+}
+
+footer img {
+    width: 80px;
+    height: 80px;
+}
+
+.y {
+    padding-top: 70px;
+    margin-top: 00px;
+    background-color: black;
+    border: black;
+}
+
+footer h2:hover {
+    color: gray;
 }
